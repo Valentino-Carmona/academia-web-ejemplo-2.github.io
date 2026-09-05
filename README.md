@@ -5,8 +5,7 @@
 
 > **Carta digital y sistema de reservas** para el restaurante ficticio *La Academia*. Un sitio web estático, responsivo y completamente autónomo, pensado para que los comensales exploren el menú, filtren por categorías o ingredientes, y reserven su mesa en segundos a través de WhatsApp.
 
-🌐 **Demo en vivo:** [https://tu-usuario.github.io/la-academia/](https://tu-usuario.github.io/la-academia/)  
-*(Sustituye `tu-usuario` por tu nombre de usuario de GitHub)*
+🌐 [**Demo en vivo**](https://valentino-carmona.github.io/academia-web-ejemplo-2.github.io/)  
 
 ---
 
